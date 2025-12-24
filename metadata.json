@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PizzaSaz - Persian Custom Pizza - Masan",
+  "description": "A fully interactive, RTL Persian pizza customization web application allowing users to build their perfect pizza step-by-step.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
